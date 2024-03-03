@@ -33,7 +33,7 @@ Warning 🚦 This Tool Formates (WhatsApp Otp Lock) So think and Use.
 * `cd WhatsApp-Otp-Lock`
 * `pip install requests`
 * `ls`
-* `python WhatsApp-Otp-Lock`
+* `python Whatsapp-Otp-Lock`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
